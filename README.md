@@ -50,7 +50,7 @@ Congrats all is set.
    - slowloris server_IP -s number_of_attacker (performing a DOS attack to the (server Denial of service attack))
 
 
-#for additional learning you should :
+# for additional learning you should :
 
 
 1. **Configuration:**
